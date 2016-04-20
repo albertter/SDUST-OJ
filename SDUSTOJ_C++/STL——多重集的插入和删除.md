@@ -26,10 +26,12 @@ i 1
 i 2  
 d 1  
 0  
+
 ## Sample Output
 
 > 2 2  
 1 2  
+
 ## HINT
 
 用STL的multiset容易解决
